@@ -13,6 +13,8 @@ Other        0 secs                ░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehastrajit)
+
 ### AI Assistant • Systems Engineer • Model Builder
 
 <p>
