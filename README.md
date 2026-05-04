@@ -1,56 +1,162 @@
-# Sehastrajit S
+<div align="center">
 
-**Master's Student @ Arizona State University • Computer Science**
+# Hey, I'm Sehastrajit S 👋
 
-Interested in building real-world AI systems — from models to full-stack applications.
+### AI Systems Builder • Full-Stack Developer • CS Master's Student @ ASU
+
+I build practical AI systems that connect **models, data, APIs, infrastructure, and user-facing products**.
+
+<p>
+  <a href="mailto:sselvach@asu.edu">
+    <img src="https://img.shields.io/badge/Email-sselvach%40asu.edu-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sehastrajit-s">
+    <img src="https://img.shields.io/badge/LinkedIn-Sehastrajit_S-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sehastrajit">
+    <img src="https://img.shields.io/badge/GitHub-@Sehastrajit-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## About Me
 
-I work across the stack with a focus on AI systems that actually solve problems.
+I’m a Computer Science master’s student at **Arizona State University**, focused on building real-world AI and software systems.
 
-My work spans:
-- Training and experimenting with custom transformer architectures
-- Building end-to-end AI applications (FastAPI + Next.js)
-- Working with large-scale and real-world datasets
-- Deploying systems with cloud + CI/CD pipelines
+I enjoy working on projects where AI is not just a demo, but part of a complete system — from model experimentation and backend APIs to frontend interfaces, deployment, and infrastructure.
 
-I enjoy going beyond just using models — understanding how they work, modifying them, and integrating them into usable systems.
+Currently, I’m exploring:
 
----
-
-## What I’m Currently Exploring
-
-- Memory-augmented and reasoning-focused models  
-- Geospatial data + AI (satellite imagery, real-world mapping)  
-- Scalable data processing systems  
-- Voice-based AI assistants  
+- Memory-augmented and reasoning-focused AI models
+- AI assistants with voice, tools, and long-term context
+- Geospatial AI using aerial and satellite imagery
+- Full-stack AI products using Next.js, FastAPI, and cloud deployment
+- Scalable data processing systems
 
 ---
 
-## Tech
+## What I Build
 
-Languages     → Python • TypeScript • SQL  
-AI/ML         → PyTorch • Transformers • RAG  
-Backend       → FastAPI • APIs • PostgreSQL  
-Frontend      → Next.js • React • Tailwind  
-Infra         → AWS • Docker • Nginx • CI/CD  
-Data          → GeoPandas • Rasterio • Large datasets  
+<table>
+<tr>
+<td width="50%">
+
+### AI / ML Systems
+- Custom transformer experiments
+- Reasoning-focused models
+- RAG pipelines
+- Voice assistant prototypes
+- Model integration into products
+
+</td>
+<td width="50%">
+
+### Full-Stack Products
+- Next.js frontends
+- FastAPI backends
+- PostgreSQL databases
+- Cloud deployment
+- CI/CD, Nginx, Docker workflows
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Data + Research
+- Large-scale data pipelines
+- Geospatial analysis
+- Satellite / aerial imagery workflows
+- Rasterio, GeoPandas, APIs
+
+</td>
+<td width="50%">
+
+### Systems Engineering
+- Backend architecture
+- API design
+- Infrastructure debugging
+- Production-style deployments
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Weekly Activity
+## Tech Stack
 
-TypeScript   10 hrs 36 mins   ███████████████▓░░░░░░░░   63.02%  
-JSON         3 hrs 10 mins    ████▓░░░░░░░░░░░░░░░░░░   18.60%  
-API          16 mins          ██▓░░░░░░░░░░░░░░░░░░░░   10.70%  
-Bash         11 mins          ██░░░░░░░░░░░░░░░░░░░░░   07.60%  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,fastapi,postgres,docker,aws,linux,git,github,pytorch" />
+</p>
+
+```txt
+AI / ML      → PyTorch • Transformers • RAG • Vector Databases
+Backend      → FastAPI • Python • PostgreSQL • REST APIs
+Frontend     → Next.js • React • TypeScript • Tailwind CSS
+Infra        → AWS • Docker • Nginx • GitHub Actions • Linux
+Data         → GeoPandas • Rasterio • Large-scale APIs • SQL
+```
 
 ---
 
-## Connect
+## Current Focus
 
-Email: sselvach@asu.edu  
-LinkedIn: https://linkedin.com/in/sehastrajit-s  
-GitHub: https://github.com/Sehastrajit  
+```txt
+Building AI systems that are useful beyond a notebook.
+```
+
+- Turning AI ideas into deployed applications
+- Learning scalable data processing deeply
+- Improving my full-stack engineering speed
+- Building open-source projects that show applied AI skills
+
+---
+
+## Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   10 hrs 36 mins   ███████████████▓░░░░░░░░   63.02%
+JSON         3 hrs 10 mins    ████▓░░░░░░░░░░░░░░░░░░   18.60%
+API          16 mins          ██▓░░░░░░░░░░░░░░░░░░░░   10.70%
+Bash         11 mins          ██░░░░░░░░░░░░░░░░░░░░░   07.60%
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sehastrajit&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sehastrajit&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## Open to Work
+
+I’m open to:
+
+- AI / ML engineering roles
+- Software engineering roles
+- Full-stack AI product work
+- Freelance or contract projects
+
+If you’re building something where AI needs to become a working product, I’d be happy to connect.
+
+---
+
+<div align="center">
+
+### Build. Break. Learn. Ship.
+
+</div>
