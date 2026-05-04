@@ -1,27 +1,56 @@
-for freelance work? do reach
+# Sehastrajit S
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+**Master's Student @ Arizona State University • Computer Science**
 
-```txt
-TypeScript   10 hr 36 mins         ███████████████▓░░░░░░░░░   63.02 %
-JSON         3 hr 10 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-API          16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Bash         11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-```
+Interested in building real-world AI systems — from models to full-stack applications.
 
-<!--END_SECTION:waka-->
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehastrajit)
+## About Me
 
-### AI Assistant • Systems Engineer • Model Builder
+I work across the stack with a focus on AI systems that actually solve problems.
 
-<p>
-  <a href="mailto:sselvach@asu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sselvach%40asu.edu-0A0A0A?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/sehastrajit-s"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sehastrajit-0A0A0A?style=for-the-badge"></a>
-  <a href="https://github.com/Sehastrajit"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Sehastrajit-0A0A0A?style=for-the-badge"></a>
-</p>
+My work spans:
+- Training and experimenting with custom transformer architectures
+- Building end-to-end AI applications (FastAPI + Next.js)
+- Working with large-scale and real-world datasets
+- Deploying systems with cloud + CI/CD pipelines
 
-</div>
+I enjoy going beyond just using models — understanding how they work, modifying them, and integrating them into usable systems.
 
+---
+
+## What I’m Currently Exploring
+
+- Memory-augmented and reasoning-focused models  
+- Geospatial data + AI (satellite imagery, real-world mapping)  
+- Scalable data processing systems  
+- Voice-based AI assistants  
+
+---
+
+## Tech
+
+Languages     → Python • TypeScript • SQL  
+AI/ML         → PyTorch • Transformers • RAG  
+Backend       → FastAPI • APIs • PostgreSQL  
+Frontend      → Next.js • React • Tailwind  
+Infra         → AWS • Docker • Nginx • CI/CD  
+Data          → GeoPandas • Rasterio • Large datasets  
+
+---
+
+## Weekly Activity
+
+TypeScript   10 hrs 36 mins   ███████████████▓░░░░░░░░   63.02%  
+JSON         3 hrs 10 mins    ████▓░░░░░░░░░░░░░░░░░░   18.60%  
+API          16 mins          ██▓░░░░░░░░░░░░░░░░░░░░   10.70%  
+Bash         11 mins          ██░░░░░░░░░░░░░░░░░░░░░   07.60%  
+
+---
+
+## Connect
+
+Email: sselvach@asu.edu  
+LinkedIn: https://linkedin.com/in/sehastrajit-s  
+GitHub: https://github.com/Sehastrajit  
