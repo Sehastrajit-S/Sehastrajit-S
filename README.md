@@ -1,8 +1,4 @@
-Ah — for your **GitHub profile README** (`Sehastrajit/Sehastrajit`) the design should market **you**, with L.U.N.A as your flagship creation. The previous version looked like a product README. Your profile should feel like: *founder + AI builder + creator of a universe*.
 
-Use this:
-
-````md
 <div align="center">
 
 <img src="assets/logo.svg" width="140"/>
@@ -86,7 +82,7 @@ built as one intelligence layer.
 
 # 🔬 Current Focus
 
-```txt
+
 Building AI systems beyond chat.
 
 Making AI:
@@ -135,5 +131,5 @@ Current interests:
 *"Building intelligence systems people can live and work with."*
 
 </div>
-````
+
 
