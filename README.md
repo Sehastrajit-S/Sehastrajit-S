@@ -126,7 +126,6 @@ Current interests:
 
 <div align="center">
 
-### ⚡ Creator of L.U.N.A
 
 *"Building intelligence systems people can live and work with."*
 
