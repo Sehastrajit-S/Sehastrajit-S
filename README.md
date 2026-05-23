@@ -27,7 +27,7 @@
 
 # 🌙 Creator of L.U.N.A.
 
-I created **L.U.N.A (Large Unified Nexus Mind AI)** — an evolving local-first AI ecosystem combining:
+I created **L.U.N.A (Large Unified Nexus Mind AI)** - an evolving local-first AI ecosystem combining:
 
 🧠 Persistent memory  
 🎙 Voice intelligence  
