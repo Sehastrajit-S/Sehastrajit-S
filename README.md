@@ -1,22 +1,20 @@
 
 <div align="center">
 
-<img src="assets/logo.svg" width="140"/>
+<img src="assets/logo.svg" width="120"/>
 
-# Hey, I'm Sehastrajit S 👋
+# Sehastrajit S
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Creator+of+L.U.N.A;AI+Systems+Architect;Building+AI+that+Remembers%2C+Reasons%2C+Sees+and+Acts;MS+CS+%40+Arizona+State+University"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI+Systems+That+Persist%2C+Reason%2C+and+Act;Creator+of+L.U.N.A.;AI+Architect+%7C+MS+CS+%40+Arizona+State+University;Memory+%C3%97+Agency+%C3%97+Multimodal+Intelligence"/>
 
 <br/>
 
 <a href="mailto:sselvach@asu.edu">
 <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
 </a>
-
 <a href="https://linkedin.com/in/sehastrajit-s">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="https://github.com/Sehastrajit">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 </a>
@@ -25,98 +23,64 @@
 
 ---
 
-# 🌙 Creator of L.U.N.A.
+## The Problem I'm Solving
 
-I created **L.U.N.A (Large Unified Nexus Mind AI)** - an evolving local-first AI ecosystem combining:
+Most AI today is **stateless, isolated, and passive** — it answers questions and forgets you exist.
 
-🧠 Persistent memory  
-🎙 Voice intelligence  
-👁 Vision awareness  
-⚡ Agent workflows  
-🌐 Tool orchestration  
-🔒 Privacy-first local execution  
-
-Think:
-
-> Jarvis × Cursor × Memory × Desktop Agent
-
-built as one intelligence layer.
+I'm building toward something different: AI that accumulates context over time, reasons across modalities, coordinates tools autonomously, and runs entirely on your hardware. Not a wrapper around an API. A new layer of intelligence infrastructure.
 
 ---
 
-# 🚀 What I Build
+## 🌙 L.U.N.A. — Local Unified Nexus AI
 
-<table>
-<tr>
+> **A local-first, privacy-native AI operating system** — persistent memory, voice, vision, and autonomous agents unified into a single intelligence layer.
 
-<td width="50%">
+**Core architecture:**
 
-### AI Systems
+| Layer | What it does |
+|---|---|
+| **Memory Engine** | Episodic + semantic memory with vector retrieval. AI that remembers *you*. |
+| **Agent Runtime** | Tool-using agents with planning, reflection, and multi-step execution |
+| **Voice Interface** | Real-time speech with context persistence across sessions |
+| **Vision Module** | Scene understanding and visual grounding for desktop-level awareness |
+| **Orchestration** | All layers composable, all compute local — zero cloud dependency |
 
-🧠 Memory Architectures  
-⚡ Agent Systems  
-🎙 Voice AI  
-📚 RAG Systems  
-🤖 LLM Integrations  
-👁 Multimodal AI
+**Why local-first?** Not a privacy checkbox. A design constraint that forces every component to be efficient, composable, and owned. No vendor lock-in. No data leaving the machine. Full autonomy.
 
-</td>
-
-<td width="50%">
-
-### Products + Infrastructure
-
-⚛ Next.js  
-🐍 FastAPI  
-☁ AWS  
-🐳 Docker  
-🔄 CI/CD  
-🗄 PostgreSQL
-
-</td>
-
-</tr>
-</table>
+Think: what Cursor did for coding, L.U.N.A. is attempting for how humans work with intelligence — at the OS level.
 
 ---
 
-# 🔬 Current Focus
+## What I Actually Build
 
+I work at the intersection of **research and product** — systems that have to work in the real world, not just on benchmarks.
 
-Building AI systems beyond chat.
+**Deep technical focus:**
+- Long-term memory architectures (episodic, semantic, working memory for LLMs)
+- Multi-agent systems with tool orchestration and planning loops
+- Multimodal pipelines — vision + language + audio in unified inference
+- RAG systems with retrieval that understands structure, not just similarity
+- Full-stack AI products: FastAPI + Next.js + vector DBs + streaming inference
 
-Making AI:
-→ remember
-→ reason
-→ understand
-→ take action
-
-Current interests:
-
-* Human-centered AI systems
-* Geospatial + computer vision research
-* Long-term memory architectures
-* Agent workflows
-* Full-stack AI products
-* Large-scale ML systems
+**Infrastructure I trust:**
+Python · PyTorch · React/Next.js · FastAPI · PostgreSQL · AWS · Docker · Linux
 
 ---
 
-# ⚒ Tech Stack
+## Research Directions
 
-<p align="center">
+I'm actively exploring:
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,react,nextjs,typescript,fastapi,postgres,docker,aws,linux,git"/>
-
-</p>
+- **Persistent agent memory** — how do you give an LLM the equivalent of long-term memory without hallucination drift?
+- **Geospatial + vision** — using computer vision and satellite/spatial data for real-world grounding
+- **Human-centered agents** — AI that adapts to individual workflows rather than forcing users to adapt to the model
+- **Efficient local inference** — making capable AI run on consumer hardware without compromise
 
 ---
 
-# 📈 GitHub Activity
+## 📈 Activity
 
 <div align="center">
-
-
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sehastrajit&theme=tokyonight&hide_border=true"/>
 
@@ -126,9 +90,6 @@ Current interests:
 
 <div align="center">
 
-
-*"Building intelligence systems people can live and work with."*
+*"The goal isn't smarter chat. It's AI that becomes part of how you think."*
 
 </div>
-
-
