@@ -11,7 +11,7 @@
 
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:sselvach@asu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sehastrajit-s)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/Sehastrajit)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/Sehastrajit-S)
 
 </div>
 
@@ -50,7 +50,7 @@ Full-stack AI products            ·    Geospatial + computer vision
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sehastrajit&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sehastrajit-S&theme=tokyonight&hide_border=true"/>
 
 </div>
 
