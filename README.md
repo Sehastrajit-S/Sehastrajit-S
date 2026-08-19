@@ -22,7 +22,7 @@
 
 I'm an **AI/ML Engineer** focused on designing and building production-ready AI systems.
 
-I work across the AI application stack — from **model inference, RAG, agents, and computer vision** to **APIs, databases, containerization, cloud infrastructure, and user-facing applications**.
+I work across the AI application stack from **model inference, RAG, agents, and computer vision** to **APIs, databases, containerization, cloud infrastructure, and user-facing applications**.
 
 My focus is turning machine learning capabilities into reliable software: building inference pipelines, integrating LLMs with external systems, designing retrieval and memory architectures, developing backend services, and deploying end-to-end AI products.
 
@@ -85,12 +85,12 @@ Cloud Infrastructure             Full-Stack AI Products
 
 I build AI systems with an emphasis on:
 
-* **Production AI** — moving models beyond notebooks into usable applications and services
-* **LLM systems** — RAG, agents, tool use, memory, structured generation, and model serving
-* **Backend engineering** — FastAPI services, REST APIs, PostgreSQL, Redis, and asynchronous workflows
-* **ML inference** — local and cloud model serving, GPU inference, batching, and optimization
-* **AI infrastructure** — Docker, Linux, cloud deployment, CI/CD, and scalable service architecture
-* **End-to-end products** — connecting models, backend systems, data infrastructure, and frontend applications
+* **Production AI** : moving models beyond notebooks into usable applications and services
+* **LLM systems** : RAG, agents, tool use, memory, structured generation, and model serving
+* **Backend engineering** : FastAPI services, REST APIs, PostgreSQL, Redis, and asynchronous workflows
+* **ML inference** : local and cloud model serving, GPU inference, batching, and optimization
+* **AI infrastructure** : Docker, Linux, cloud deployment, CI/CD, and scalable service architecture
+* **End-to-end products** : connecting models, backend systems, data infrastructure, and frontend applications
 
 ---
 
