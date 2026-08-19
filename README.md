@@ -67,13 +67,6 @@ Local LLM Inference              Production ML Systems
 
 ---
 
-## Research
-
-My research interests lie at the intersection of **machine learning, deep learning, computer vision, knowledge representation, and applied AI**.
-
-I have contributed to peer-reviewed research involving deep learning applications and continue to work on AI systems that connect research with practical, scalable implementations.
-
----
 
 <div align="center">
 
