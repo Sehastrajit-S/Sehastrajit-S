@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="assets/logo.svg" width="100"/>
@@ -45,28 +44,39 @@ Local LLM Inference              Production ML Systems
 
 ## Tech Stack
 
-**AI / ML**
+### AI / ML
 
-`Python` · `PyTorch` · `Hugging Face` · `vLLM` · `Transformers` · `Computer Vision` · `RAG`
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge\&logo=pytorch)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111111?style=for-the-badge\&logo=huggingface)
+![vLLM](https://img.shields.io/badge/vLLM-111111?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-111111?style=for-the-badge\&logo=huggingface)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge\&logo=opencv)
 
-**Backend & Data**
+### Backend & Data
 
-`FastAPI` · `PostgreSQL` · `Redis` · `REST APIs` · `Vector Search` · `Neo4j`
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge\&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge\&logo=redis)
+![Neo4j](https://img.shields.io/badge/Neo4j-111111?style=for-the-badge\&logo=neo4j)
+![REST API](https://img.shields.io/badge/REST%20API-111111?style=for-the-badge\&logo=fastapi)
 
-**Frontend**
+### Frontend
 
-`Next.js` · `React` · `TypeScript`
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript)
 
-**Infrastructure**
+### Infrastructure
 
-`Docker` · `Linux` · `AWS` · `Azure` · `Git`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,react,nextjs,typescript,fastapi,postgres,redis,docker,aws,azure,linux,git"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge\&logo=amazonwebservices)
+![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
 
 ---
-
 
 <div align="center">
 
