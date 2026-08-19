@@ -41,6 +41,77 @@ APIs & Microservices             Production ML Pipelines
 Cloud Infrastructure             Full-Stack AI Products
 ```
 
+
+
+## What I Work With
+
+```mermaid
+graph TD
+    AI((AI / ML Engineering))
+
+    AI --- LLM((LLMs))
+    AI --- AG((Agentic AI))
+    AI --- ML((Machine Learning))
+    AI --- BE((Backend Systems))
+    AI --- INFRA((Infrastructure))
+    AI --- DATA((Data Systems))
+
+    LLM --- RAG((RAG))
+    LLM --- MM((Multimodal AI))
+    LLM --- INFER((Model Inference))
+
+    AG --- TOOLS((Tool Use))
+    AG --- MEMORY((Memory))
+    AG --- MULTI((Multi-Agent Systems))
+    AG --- RAG
+
+    RAG --- VS((Vector Search))
+    RAG --- RR((Reranking))
+    RAG --- KG((Knowledge Graphs))
+
+    ML --- CV((Computer Vision))
+    ML --- DL((Deep Learning))
+    ML --- GEO((Geospatial ML))
+
+    MM --- CV
+    MM --- VOICE((Voice))
+    MM --- LLM
+
+    BE --- API((APIs))
+    BE --- FAST((FastAPI))
+    BE --- ASYNC((Async Workflows))
+    BE --- DATA
+
+    DATA --- PG((PostgreSQL))
+    DATA --- REDIS((Redis))
+    DATA --- NEO((Neo4j))
+    KG --- NEO
+
+    INFER --- VLLM((vLLM))
+    INFER --- GPU((GPU Inference))
+    INFER --- LOCAL((Local Models))
+
+    INFRA --- DOCKER((Docker))
+    INFRA --- LINUX((Linux))
+    INFRA --- CLOUD((Cloud))
+    INFRA --- CICD((CI/CD))
+
+    CLOUD --- AWS((AWS))
+    CLOUD --- AZURE((Azure))
+
+    AI --- FULL((Full-Stack AI))
+    FULL --- NEXT((Next.js))
+    FULL --- REACT((React))
+    FULL --- BE
+
+    DOCKER --- BE
+    GPU --- INFRA
+    MEMORY --- DATA
+    TOOLS --- API
+```
+
+
+
 ---
 
 ## Tech Stack
