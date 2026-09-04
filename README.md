@@ -14,6 +14,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sehastrajit-s)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)](https://github.com/Sehastrajit-S)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sehastrajit-S&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -27,89 +29,6 @@ I work across the AI application stack from **model inference, RAG, agents, and 
 My focus is turning machine learning capabilities into reliable software: building inference pipelines, integrating LLMs with external systems, designing retrieval and memory architectures, developing backend services, and deploying end-to-end AI products.
 
 Currently pursuing an **M.S. in Computer Science at Arizona State University** while building and shipping AI systems.
-
-
-## What I Work With
-
-```text id="3a0byk"
-LLM Applications                 Agentic AI Systems
-RAG & Semantic Retrieval         AI Backend Engineering
-Model Serving & Inference        Knowledge Systems
-Computer Vision                  Multimodal AI
-APIs & Microservices             Production ML Pipelines
-Cloud Infrastructure             Full-Stack AI Products
-```
-
-
-
-## What I Work With
-
-```mermaid
-graph TD
-    AI((AI / ML Engineering))
-
-    AI --- LLM((LLMs))
-    AI --- AG((Agentic AI))
-    AI --- ML((Machine Learning))
-    AI --- BE((Backend Systems))
-    AI --- INFRA((Infrastructure))
-    AI --- DATA((Data Systems))
-
-    LLM --- RAG((RAG))
-    LLM --- MM((Multimodal AI))
-    LLM --- INFER((Model Inference))
-
-    AG --- TOOLS((Tool Use))
-    AG --- MEMORY((Memory))
-    AG --- MULTI((Multi-Agent Systems))
-    AG --- RAG
-
-    RAG --- VS((Vector Search))
-    RAG --- RR((Reranking))
-    RAG --- KG((Knowledge Graphs))
-
-    ML --- CV((Computer Vision))
-    ML --- DL((Deep Learning))
-    ML --- GEO((Geospatial ML))
-
-    MM --- CV
-    MM --- VOICE((Voice))
-    MM --- LLM
-
-    BE --- API((APIs))
-    BE --- FAST((FastAPI))
-    BE --- ASYNC((Async Workflows))
-    BE --- DATA
-
-    DATA --- PG((PostgreSQL))
-    DATA --- REDIS((Redis))
-    DATA --- NEO((Neo4j))
-    KG --- NEO
-
-    INFER --- VLLM((vLLM))
-    INFER --- GPU((GPU Inference))
-    INFER --- LOCAL((Local Models))
-
-    INFRA --- DOCKER((Docker))
-    INFRA --- LINUX((Linux))
-    INFRA --- CLOUD((Cloud))
-    INFRA --- CICD((CI/CD))
-
-    CLOUD --- AWS((AWS))
-    CLOUD --- AZURE((Azure))
-
-    AI --- FULL((Full-Stack AI))
-    FULL --- NEXT((Next.js))
-    FULL --- REACT((React))
-    FULL --- BE
-
-    DOCKER --- BE
-    GPU --- INFRA
-    MEMORY --- DATA
-    TOOLS --- API
-```
-
-
 
 ## Tech Stack
 
@@ -165,6 +84,10 @@ I build AI systems with an emphasis on:
 <div align="center">
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sehastrajit-S&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+![Star History](https://api.lucabubi.me/chart?username=USERNAME&repository=REPOSITORY&color=COLOR)
 
 <br/><br/>
 
