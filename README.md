@@ -28,7 +28,6 @@ My focus is turning machine learning capabilities into reliable software: buildi
 
 Currently pursuing an **M.S. in Computer Science at Arizona State University** while building and shipping AI systems.
 
----
 
 ## What I Work With
 
