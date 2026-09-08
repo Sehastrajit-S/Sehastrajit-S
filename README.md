@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sehastrajit-s)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)](https://github.com/Sehastrajit-S)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sehastrajit-S&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -83,9 +82,6 @@ I build AI systems with an emphasis on:
 
 <br/><br/>
 
-![Star History](https://api.lucabubi.me/chart?username=USERNAME&repository=REPOSITORY&color=COLOR)
-
-<br/><br/>
 
 ### Building AI systems from model to production.
 
