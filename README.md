@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=60&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=AI+Engineer;ML+Engineer;AI+Systems+Architect;Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=60&duration=6000&pause=2000&color=2563EB&center=true&vCenter=true&width=1000&lines=AI+Engineer;ML+Engineer;AI+Systems+Architect;Software+Engineer"/>
 
 </div>
 
@@ -22,6 +22,8 @@
 ---
 
 <div align="center">
+
+## My Stats
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sehastrajit-S&theme=tokyonight&hide_border=true"/>
 
