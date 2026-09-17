@@ -59,10 +59,10 @@ Currently pursuing an **M.S. in Computer Science at Arizona State University** w
 ## Open Source Contributions
 
 |  | Project | Contribution |
-|---|---|---|
-| [![Cohere](https://img.shields.io/badge/Cohere-111111?style=for-the-badge&logo=cohere)](https://github.com/cohere-ai/cohere-python/pull/811) | [cohere-python](https://github.com/cohere-ai/cohere-python/pull/811) | Fixed `merge_embed_responses` silently dropping embedding types absent from the first batch |
-| [![Google](https://img.shields.io/badge/Google-111111?style=for-the-badge&logo=google)](https://github.com/google/adk-python/pull/7149) | [adk-python](https://github.com/google/adk-python/pull/7149) | Guarded `set_model_response` as a reserved MCP tool name to stop it shadowing the built-in tool |
-| [![NVIDIA](https://img.shields.io/badge/NVIDIA-111111?style=for-the-badge&logo=nvidia)](https://github.com/NVIDIA/NemoClaw/pull/11962) | [NemoClaw](https://github.com/NVIDIA/NemoClaw/pull/11962) | Fixed CLI status output reporting another sandbox's inference config instead of its own |
+|:---:|---|---|
+| [<img src="https://cdn.simpleicons.org/cohere" width="48" height="48" alt="Cohere"/>](https://github.com/cohere-ai/cohere-python/pull/811) | [cohere-python](https://github.com/cohere-ai/cohere-python/pull/811) | Fixed `merge_embed_responses` silently dropping embedding types absent from the first batch |
+| [<img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Google"/>](https://github.com/google/adk-python/pull/7149) | [adk-python](https://github.com/google/adk-python/pull/7149) | Guarded `set_model_response` as a reserved MCP tool name to stop it shadowing the built-in tool |
+| [<img src="https://cdn.simpleicons.org/nvidia" width="48" height="48" alt="NVIDIA"/>](https://github.com/NVIDIA/NemoClaw/pull/11962) | [NemoClaw](https://github.com/NVIDIA/NemoClaw/pull/11962) | Fixed CLI status output reporting another sandbox's inference config instead of its own |
 
 ---
 
