@@ -1,17 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=48&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=AI+Engineer;ML+Engineer;AI+Systems+Architect;Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=60&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=AI+Engineer;ML+Engineer;AI+Systems+Architect;Software+Engineer"/>
 
 </div>
 
 ## Tech Stack
 
 <p align="center">
-<marquee behavior="scroll" direction="left" scrollamount="6">
-<img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,opencv,fastapi,postgres,redis,neo4j,nextjs,react,typescript,docker,linux,aws,azure,git,github&perline=17" height="70"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,opencv,fastapi,postgres,redis,neo4j,nextjs,react,typescript,docker,linux,aws,azure,git,github&perline=17" height="70"/>
-</marquee>
+<img src="https://stack.rajinkhan.com/v1/stack.svg?i=python,pytorch,huggingface,opencv,fastapi,postgresql,redis,neo4j,nextdotjs,react,typescript,docker,linux,amazonwebservices,azure,git,github"/>
 </p>
 
 
