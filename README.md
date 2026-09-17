@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=180&duration=6000&pause=2000&color=2563EB&center=true&vCenter=true&width=3000&lines=AI+Engineer;ML+Engineer;AI+Systems+Architect;Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=100&duration=6000&pause=2000&color=2563EB&center=true&vCenter=true&width=3000&height=160&lines=AI+Engineer;ML+Engineer;AI+Systems+Architect;Software+Engineer"/>
 
 </div>
 
