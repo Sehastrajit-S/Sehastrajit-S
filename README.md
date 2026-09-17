@@ -56,18 +56,13 @@ Currently pursuing an **M.S. in Computer Science at Arizona State University** w
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
 
 
-## Engineering Focus
+## Open Source Contributions
 
-**Build → Integrate → Deploy → Scale**
-
-I build AI systems with an emphasis on:
-
-* **Production AI** : moving models beyond notebooks into usable applications and services
-* **LLM systems** : RAG, agents, tool use, memory, structured generation, and model serving
-* **Backend engineering** : FastAPI services, REST APIs, PostgreSQL, Redis, and asynchronous workflows
-* **ML inference** : local and cloud model serving, GPU inference, batching, and optimization
-* **AI infrastructure** : Docker, Linux, cloud deployment, CI/CD, and scalable service architecture
-* **End-to-end products** : connecting models, backend systems, data infrastructure, and frontend applications
+| Project | Contribution |
+|---|---|
+| [![Cohere](https://img.shields.io/badge/cohere--python-111111?style=for-the-badge&logo=cohere)](https://github.com/cohere-ai/cohere-python/pull/811) | Fixed `merge_embed_responses` silently dropping embedding types absent from the first batch |
+| [![Google](https://img.shields.io/badge/adk--python-111111?style=for-the-badge&logo=google)](https://github.com/google/adk-python/pull/7149) | Guarded `set_model_response` as a reserved MCP tool name to stop it shadowing the built-in tool |
+| [![NVIDIA](https://img.shields.io/badge/NemoClaw-111111?style=for-the-badge&logo=nvidia)](https://github.com/NVIDIA/NemoClaw/pull/11962) | Fixed CLI status output reporting another sandbox's inference config instead of its own |
 
 ---
 
