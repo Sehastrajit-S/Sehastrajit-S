@@ -2,9 +2,6 @@
 
 # Sehastrajit S
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=860&lines=Building+Production-Ready+AI+Systems;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Knowledge+Systems;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Cloud;From+Model+Inference+to+Production+Deployment"/>
-
-<br/>
 
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge\&logo=gmail)](mailto:sselvach@asu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sehastrajit-s)
