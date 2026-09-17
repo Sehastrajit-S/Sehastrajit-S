@@ -2,24 +2,9 @@
 
 # Sehastrajit S
 
-
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge\&logo=gmail)](mailto:sselvach@asu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sehastrajit-s)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)](https://github.com/Sehastrajit-S)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+Engineer;ML+Engineer;AI+Systems+Architect;Software+Engineer"/>
 
 </div>
-
-
-## About Me
-
-I'm an **AI/ML Engineer** focused on designing and building production-ready AI systems.
-
-I work across the AI application stack from **model inference, RAG, agents, and computer vision** to **APIs, databases, containerization, cloud infrastructure, and user-facing applications**.
-
-My focus is turning machine learning capabilities into reliable software: building inference pipelines, integrating LLMs with external systems, designing retrieval and memory architectures, developing backend services, and deploying end-to-end AI products.
-
-Currently pursuing an **M.S. in Computer Science at Arizona State University** while building and shipping AI systems.
 
 ## Tech Stack
 
@@ -60,9 +45,9 @@ Currently pursuing an **M.S. in Computer Science at Arizona State University** w
 
 |  | Project | Contribution |
 |:---:|---|---|
-| [<img src="https://cdn.simpleicons.org/cohere" width="48" height="48" alt="Cohere"/>](https://github.com/cohere-ai/cohere-python/pull/811) | [cohere-python](https://github.com/cohere-ai/cohere-python/pull/811) | Fixed `merge_embed_responses` silently dropping embedding types absent from the first batch |
-| [<img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Google"/>](https://github.com/google/adk-python/pull/7149) | [adk-python](https://github.com/google/adk-python/pull/7149) | Guarded `set_model_response` as a reserved MCP tool name to stop it shadowing the built-in tool |
-| [<img src="https://cdn.simpleicons.org/nvidia" width="48" height="48" alt="NVIDIA"/>](https://github.com/NVIDIA/NemoClaw/pull/11962) | [NemoClaw](https://github.com/NVIDIA/NemoClaw/pull/11962) | Fixed CLI status output reporting another sandbox's inference config instead of its own |
+| [<img src="https://github.com/cohere-ai.png" width="48" height="48" alt="Cohere"/>](https://github.com/cohere-ai/cohere-python/pull/811) | [cohere-python](https://github.com/cohere-ai/cohere-python/pull/811) | Fixed `merge_embed_responses` silently dropping embedding types absent from the first batch |
+| [<img src="https://github.com/google.png" width="48" height="48" alt="Google"/>](https://github.com/google/adk-python/pull/7149) | [adk-python](https://github.com/google/adk-python/pull/7149) | Guarded `set_model_response` as a reserved MCP tool name to stop it shadowing the built-in tool |
+| [<img src="https://github.com/NVIDIA.png" width="48" height="48" alt="NVIDIA"/>](https://github.com/NVIDIA/NemoClaw/pull/11962) | [NemoClaw](https://github.com/NVIDIA/NemoClaw/pull/11962) | Fixed CLI status output reporting another sandbox's inference config instead of its own |
 
 ---
 
@@ -74,5 +59,13 @@ Currently pursuing an **M.S. in Computer Science at Arizona State University** w
 
 
 ### Building AI systems from model to production.
+
+<br/>
+
+## Contact Me
+
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge\&logo=gmail)](mailto:sselvach@asu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sehastrajit-s)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)](https://github.com/Sehastrajit-S)
 
 </div>
